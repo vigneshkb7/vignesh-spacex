@@ -1,0 +1,17 @@
+.Filter {
+  background-color: white;
+}
+
+h5 {
+  text-align: center;
+}
+
+h3 {
+  padding: 10px;
+}
+
+.Filter-Btns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,12 @@
+h2 {
+  text-align: center;
+  margin: 15px;
+}
+
+.App {
+  background-color: gainsboro;
+  height: 100%;
+}
+.padtop {
+  padding-top: 15px;
+}
